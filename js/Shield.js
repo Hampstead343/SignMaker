@@ -54,7 +54,12 @@ Shield.prototype.bannerTypes = [
 	"Toll",
 	"City",
 	"Conn",
-	"To"
+	"To",
+	"Est",
+	"Ouest",
+	"Sud",
+	"Nord",
+	"Via"
 ];
 Shield.prototype.bannerPositions = ["Above", "Right", "Left"];
 Shield.prototype.types = {
